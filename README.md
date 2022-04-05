@@ -11,24 +11,33 @@ AWS CloudFormation Sample Template WordPress_Single_Instance: WordPress is web s
 ```
 Basic knowledge on AWS, cloudformation , s3 and wordpress
 ```
+
 > Creation of stack using the basic wordpress stack templates
 <center><img alt="aws" src="Deqoh8MdYY.png"> </img></center>
 
->
+> Design of selected wordpress blog infra on Cloudformation
+<center><img alt="aws" src="firefox_EvsRv9QeWm.png"> </img></center>
+
+> Moving to next part, provide the db details such as name and user pass for the creation
+<center><img alt="aws" src="firefox_E0t9F71Dbp.png"> </img></center>
+
+> CONFIGURING the stack tags and role attaching
+<center><img alt="aws" src="firefox_G6nZjQyOdr.png"> </img></center>
+
+> Stack creation started and inprogress
+<center><img alt="aws" src="firefox_EvsRv9QeWm.png"> </img></center>
+
+> Stack creation completed and EC2 and s3 deployed as the part of template we have selected
+<center><img alt="aws" src="firefox_9cqOXtFvHe.png"> </img></center>
+
+> S3 URL for verify that the wordpress has been installed or not
 <center><img alt="aws" src=""> </img></center>
 
-<center><img alt="aws" src=""> </img></center>
+> Verfied the site that wordpress is working fine
+<center><img alt="aws" src="firefox_9kONLogobw.png"> </img></center>
 
-<center><img alt="aws" src=""> </img></center>
-
-<center><img alt="aws" src=""> </img></center>
-
-<center><img alt="aws" src=""> </img></center>
-
-<center><img alt="aws" src=""> </img></center>
-
-<center><img alt="aws" src=""> </img></center>
-
+> Site working fine and you can chnage or setup wordpress as your own wish.
+<center><img alt="aws" src="firefox_7NXilTd48L.png"> </img></center>
 
 ## Conclusion
 

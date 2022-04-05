@@ -11,8 +11,23 @@ AWS CloudFormation Sample Template WordPress_Single_Instance: WordPress is web s
 ```
 Basic knowledge on AWS, cloudformation , s3 and wordpress
 ```
+> Creation of stack using the basic wordpress stack templates
+<center><img alt="aws" src="Deqoh8MdYY.png"> </img></center>
 
-<center><img alt="aws" src="14site.png"> </img></center>
+>
+<center><img alt="aws" src=""> </img></center>
+
+<center><img alt="aws" src=""> </img></center>
+
+<center><img alt="aws" src=""> </img></center>
+
+<center><img alt="aws" src=""> </img></center>
+
+<center><img alt="aws" src=""> </img></center>
+
+<center><img alt="aws" src=""> </img></center>
+
+<center><img alt="aws" src=""> </img></center>
 
 
 ## Conclusion

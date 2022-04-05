@@ -25,7 +25,7 @@ Basic knowledge on AWS, cloudformation , s3 and wordpress
 <center><img alt="aws" src="firefox_G6nZjQyOdr.png"> </img></center>
 
 > Stack creation started and inprogress
-<center><img alt="aws" src="firefox_EvsRv9QeWm.png"> </img></center>
+<center><img alt="aws" src="firefox_PZG0nkGlpF.png"> </img></center>
 
 > Stack creation completed and EC2 and s3 deployed as the part of template we have selected
 <center><img alt="aws" src="firefox_9cqOXtFvHe.png"> </img></center>
